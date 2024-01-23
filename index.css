@@ -1,0 +1,35 @@
+*{margin: 0%;
+  padding:0%;
+  box-sizing:box-border}
+  .card{
+          margin: auto;
+          border: 1px solid #ffff;
+          width:400px;
+          height:auto;
+          padding: 5px;
+          margin-top: 10%;
+
+  }
+  .topic{
+  font-family: 'Roboto', sans-serif;
+   padding:7px;
+   font-size: 16px;
+   text-transform: capitalize;}
+  .para{
+  font-family: 'PT Sans Narrow', sans-serif;}
+  .list{
+    font-family: 'Tinos', serif;
+    padding-bottom:10px;
+    text-transform: capitalize;}
+#click{
+    background-color: red;
+    border:1px solid red;
+    border-radius: 5px;
+    box-shadow: 30px solid pink;
+    padding:4px;
+    color:#ffff;
+}
+span{
+    color:rgb(109, 5, 5);
+    padding-right: 5%;
+}
